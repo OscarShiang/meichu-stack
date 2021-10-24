@@ -1,0 +1,12 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/OscarShiang/meichu-backend.git
+[submodule "simple-beacon"]
+	path = simple-beacon
+	url = https://github.com/OscarShiang/line-simple-beacon.git
+[submodule "linebot"]
+	path = linebot
+	url = https://github.com/shangrex/shopping_helper.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/erickuo5124/line-tv.git
